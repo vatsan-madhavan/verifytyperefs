@@ -1,5 +1,7 @@
 ﻿# verifytyperefs 
 
+[![Build Status](https://dev.azure.com/vmad/GitHubBuilds/_apis/build/status/vatsanm.verifytyperefs?branchName=master)](https://dev.azure.com/vmad/GitHubBuilds/_build/latest?definitionId=7&branchName=master)
+
 A small tool to verify type-refs in an assembly
 
 ## Usage
